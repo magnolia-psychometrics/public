@@ -43,7 +43,7 @@ Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE815679336
 ### 4.4 Bezieht sich eine Leistung auf die technische Umsetzung von Internetanwendungen, so gilt als Maßstab für die mängelfreie Umsetzung deren Funktionsfähigkeit in den Browsern “Microsoft Edge”, “Google Chrome” und “Mozilla Firefox” in deren Standardausführungen auf einem Desktop-PC und in der jeweils aktuellsten Version zum Zeitpunkt der Übergabe der Leistung.
 ### 4.5 Alle genannten Termine sind grundsätzlich als unverbindliche Angaben zu verstehen, soweit diese nicht schriftlich durch die magnolia psychometrics GmbH als verbindlich bestätigt wurden.
 ### 4.6 Setzt die Geltendmachung von Rechten des Kunden die Setzung einer angemessenen Nachfrist voraus, so beträgt diese mindestens zwei Wochen.
-### 4.7 Leistungsverzögerungen aufgrund von Umständen im Verantwortungsbereich des Kunden (z.B. nicht die rechtzeitige Erbringung von Mitwirkungsleistungen, $5) oder höherer Gewalt (z.B. Streik, Aussperrung, allgemeine Störungen der Telekommunikation) hat die magnolia psychometrics GmbH nicht zu vertreten. Sie berechtigen uns, das Erbringen der betreffenden Leistungen um die Dauer der Behinderungen zzgl einer angemessenen Anlaufzeit hinauszuschieben. Die magnolia psychometrics GmbH wird dem Kunden Leistungsverzögerungen augrund höherer Gewalt anzeigen.
+### 4.7 Leistungsverzögerungen aufgrund von Umständen im Verantwortungsbereich des Kunden (z.B. nicht die rechtzeitige Erbringung von Mitwirkungsleistungen, §5) oder höherer Gewalt (z.B. Streik, Aussperrung, allgemeine Störungen der Telekommunikation) hat die magnolia psychometrics GmbH nicht zu vertreten. Sie berechtigen uns, das Erbringen der betreffenden Leistungen um die Dauer der Behinderungen zzgl einer angemessenen Anlaufzeit hinauszuschieben. Die magnolia psychometrics GmbH wird dem Kunden Leistungsverzögerungen augrund höherer Gewalt anzeigen.
 
 ## 5 Mitwirkungsleistungen
 ### 5.1 Der Kunde unterstützt die magnolia psychometrics GmbH bei der Erfüllung der vertraglich geschuldeten Leistungen. Dazu gehört insbesondere die rechtzeitige Bereitstellung von Informationen, Materialien, Teststellungen, Zugangsdaten, Waren und Daten (“Inhalte”).
@@ -84,7 +84,7 @@ Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE815679336
 
 ## 10 Zahlungsvereinbarung, Verzug, Zurückbehaltungsrecht, Aufrechnung
 ### 10.1 Soweit nicht Anderes ausdrücklich vereinbart, sind sämtliche Zahlungen ohne Skotoabzug innerhalb von acht Tagen nach Rechnungsdatum fällig. Bankspesen sind vom Kunden zu tragen. Zahlt der Kunde nicht rechtzeitig, schuldet er, sofern er Unternehmer ist, ab dem Zeitpunkt der Fälligkeit Zinsen in Höhe von 10 % jährlich, sofern er keinen geringeren Zinsschaden nachweist.
-### 10.2 DIe magnolia psychometrics GmbH kann Angebote des Kunden für Abrufe von Dritten sperren oder Verträge außerordentlich kündigen, wenn sich der Kunde mit fälligen Forderungen mehr als vier Wochen im Verzug befindet.
+### 10.2 Die magnolia psychometrics GmbH kann Angebote des Kunden für Abrufe von Dritten sperren oder Verträge außerordentlich kündigen, wenn sich der Kunde mit fälligen Forderungen mehr als vier Wochen im Verzug befindet.
 ### 10.3 Die Aufrechnung mit Gegenforderungen ist nur zulässig, soweit diese unbestritten oder rechtskräftig festgestellt sind. Zudem kann der Kunde mit einer Gegenforderung aufrechnen, die an die Stelle eines ihm zustehenden Zurückbehaltungsrechts aus diesem Vertragsverhältnis getreten ist.
 ### 10.4 Ein Zurückbehaltungsrecht des Kunden besteht nur beschränkt auf dasselbe Vertragsverhältnis, bei Mängeln nur in Höhe des Dreifachen der zur Beseitigung der Mängel erforderlichen Aufwendungen. Der Kunde kann sein Zurückbehaltungsrecht jedoch wegen unbestrittener oder rechtskräftig festgestellter Ansprüche ausüben.
 
@@ -95,7 +95,7 @@ Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz: DE815679336
 
 ## 12 Support
 ### 12.1 Die magnolia psychometrics GmbH gewährt dem Kunden in Verbindung mit den erbrachten Leistungen Unterstützung bei Bedingungsfragen und technischen Problemen.
-### 12.2 Nach Abnahme ($6) ist der Support kostenpflichtig (§9), soweit er nicht durch andere Vereinbarungen vereinbart ist.
+### 12.2 Nach Abnahme (§6) ist der Support kostenpflichtig (§9), soweit er nicht durch andere Vereinbarungen vereinbart ist.
 ### 12.3 Die magnolia psychometrics GmbH steht jedoch nicht dafür ein, dass eine Lösung innerhalb einer bestimmten Zeit erfolgen kann, nach betriebswirtschaftlichen Gesichtspunkten überhaupt möglich oder nach technischen Gesichtspunkten praktikabel ist.
 
 ## 13 Haftung
