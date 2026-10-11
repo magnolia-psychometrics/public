@@ -74,7 +74,7 @@ You agree to defend, indemnify, and hold harmless the Company, its affiliates, d
 ---
 
 ## 8. Third-Party Platforms, Models, and Services
-The Apps may be hosted on or depend on third-party services (e.g., Hugging Face Spaces, model providers, APIs, or cloud infrastructure). Third parties may have their own terms and privacy practices. We do not control and are not responsible for third-party services or their availability, security, or content. Your use of those services is at your own risk and subject to their terms.{index=8}
+The Apps may be hosted on or depend on third-party services (e.g., Hugging Face Spaces, model providers, APIs, or cloud infrastructure). Third parties may have their own terms and privacy practices. We do not control and are not responsible for third-party services or their availability, security, or content. Your use of those services is at your own risk and subject to their terms.
 
 ---
 
@@ -133,7 +133,7 @@ We may update this Supplemental Disclaimer from time to time. Changes apply when
 ---
 
 ## 13. Governing Law & Venue
-Unless otherwise specified in the Main Terms, this Supplemental Disclaimer is governed by the laws of the German Federation, excluding conflict-of-law rules.
+Unless otherwise specified in the Main Terms, this Supplemental Disclaimer is governed by the laws of the Federal Republic of Germany, excluding conflict-of-law rules.
 
 ---
 
