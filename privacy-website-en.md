@@ -21,9 +21,30 @@ To display the website in your language, we store your language preference (the 
 
 We do not use any other cookies.
 
-### No Tracking, No Third-Party Content
+### Contact Form
 
-This website does not use analytics, tracking, or advertising services. All fonts, scripts, and other resources are delivered from our own server; no content is loaded from third parties when you visit the website. Links to external platforms (e.g., LinkedIn, GitHub, Hugging Face) are plain links: data is only transmitted to the respective provider if you follow them.
+When you write to us via the contact form, we send your details (name, email address, optionally your organization, and your message) together with the page language by email to our mailbox. The details are not stored on the web server itself. Our mailbox is operated by Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Ireland (Google Workspace), under a data processing agreement pursuant to Art. 28 GDPR. This may involve a transfer to the USA, which is based on the European Commission's adequacy decision for the EU-US Data Privacy Framework (Art. 45 GDPR).
+
+To protect against automated messages, we limit the number of messages per IP address. For this purpose, we store a hash of your IP address (a string derived from it that does not directly reveal the address) on our server for at most one hour.
+
+- **Legal basis and retention of your message:** see "Contacting Us".
+- **Legal basis of the per-IP limit:** Art. 6 (1) (f) GDPR, based on our legitimate interest in a contact form protected against abuse.
+
+### Audience Measurement with Umami
+
+To understand which content is read, we use the open-source software Umami. It runs on our own servers at Hetzner (see "Hosting"), and no data is passed to third parties. Umami does not set cookies and stores nothing on your device.
+
+For each page view, we record: the page and page title, referrer URL, browser, operating system, device type, screen resolution, language setting, and the country, region, and city derived from the IP address. We also count individual actions in blog articles, such as sharing an article, copying a citation, or reading to the end. The IP address itself is not stored. To group page views into visits, Umami computes an identifier from the IP address, browser details, and a regularly changing random value. The IP address cannot be recovered from this identifier, and visits cannot be linked to the same person over longer periods.
+
+If your browser sends a "Do Not Track" signal, no audience measurement takes place.
+
+- **Purpose:** statistical analysis of usage to improve our content and website.
+- **Legal basis:** Art. 6 (1) (f) GDPR, based on our legitimate interest in privacy-friendly audience measurement.
+- **Retention:** The statistics data is deleted after 24 months.
+
+### No Third-Party Content
+
+We do not use third-party advertising or tracking services. All fonts, scripts, and other resources are delivered from our own servers; no content is loaded from third parties when you visit the website. Links to external platforms (e.g., LinkedIn, GitHub, Hugging Face) are plain links: data is only transmitted to the respective provider if you follow them.
 
 ### Interactive Examples
 

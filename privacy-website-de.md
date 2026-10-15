@@ -21,9 +21,30 @@ Um die Website in Ihrer Sprache anzuzeigen, speichern wir Ihre Spracheinstellung
 
 Weitere Cookies setzen wir nicht ein.
 
-### Kein Tracking, keine Inhalte Dritter
+### Kontaktformular
 
-Diese Website verwendet keine Analyse-, Tracking- oder Werbedienste. Schriften, Skripte und sonstige Ressourcen werden ausschließlich von unserem eigenen Server ausgeliefert; beim Besuch der Website werden keine Inhalte von Dritten geladen. Links zu externen Plattformen (z. B. LinkedIn, GitHub, Hugging Face) sind einfache Links: Daten werden erst an den jeweiligen Anbieter übertragen, wenn Sie einem Link folgen.
+Wenn Sie uns über das Kontaktformular schreiben, senden wir Ihre Angaben (Name, E-Mail-Adresse, optional Organisation, Nachricht) zusammen mit der Sprache der Seite per E-Mail an unser Postfach. Auf dem Webserver selbst werden die Angaben nicht gespeichert. Unser E-Mail-Postfach betreibt Google Cloud EMEA Limited, Gordon House, Barrow Street, Dublin 4, Irland (Google Workspace), auf Grundlage eines Vertrags zur Auftragsverarbeitung nach Art. 28 DSGVO. Dabei ist eine Übermittlung in die USA möglich; sie erfolgt auf Grundlage des Angemessenheitsbeschlusses der Europäischen Kommission zum EU-US Data Privacy Framework (Art. 45 DSGVO).
+
+Zum Schutz vor automatisiert versendeten Nachrichten begrenzen wir die Zahl der Nachrichten je IP-Adresse. Dazu speichern wir einen Hashwert Ihrer IP-Adresse (eine daraus abgeleitete Zeichenfolge, aus der sich die Adresse nicht direkt ablesen lässt) für höchstens eine Stunde auf unserem Server.
+
+- **Rechtsgrundlage und Speicherdauer Ihrer Nachricht:** siehe „Kontaktaufnahme“.
+- **Rechtsgrundlage der Begrenzung je IP-Adresse:** Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an einem vor Missbrauch geschützten Kontaktformular.
+
+### Reichweitenmessung mit Umami
+
+Um zu erkennen, welche Inhalte gelesen werden, nutzen wir die Open-Source-Software Umami. Sie läuft auf unseren eigenen Servern bei Hetzner (siehe „Hosting“), Daten gehen dabei nicht an Dritte. Umami setzt keine Cookies und speichert nichts auf Ihrem Gerät.
+
+Bei jedem Seitenaufruf werden erfasst: aufgerufene Seite und Seitentitel, Referrer-URL, Browser, Betriebssystem, Gerätetyp, Bildschirmauflösung, Spracheinstellung sowie Land, Region und Stadt, die aus der IP-Adresse abgeleitet werden. Zusätzlich zählen wir einzelne Aktionen in Blogartikeln, etwa das Teilen eines Artikels, das Kopieren einer Quellenangabe oder das Lesen bis zum Ende. Die IP-Adresse selbst wird nicht gespeichert. Um Seitenaufrufe zu Besuchen zusammenzufassen, bildet Umami eine Kennung aus IP-Adresse, Browserangaben und einem regelmäßig wechselnden Zufallswert. Aus dieser Kennung lässt sich die IP-Adresse nicht zurückrechnen, und Besuche lassen sich nicht über längere Zeit derselben Person zuordnen.
+
+Sendet Ihr Browser das Signal „Do Not Track“, findet keine Reichweitenmessung statt.
+
+- **Zweck:** statistische Auswertung der Nutzung, um Inhalte und Website zu verbessern.
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an einer datensparsamen Reichweitenmessung.
+- **Speicherdauer:** Die Statistikdaten werden nach 24 Monaten gelöscht.
+
+### Keine Inhalte Dritter
+
+Wir nutzen keine Werbe- oder Trackingdienste Dritter. Schriften, Skripte und sonstige Ressourcen werden ausschließlich von unseren eigenen Servern ausgeliefert; beim Besuch der Website werden keine Inhalte von Dritten geladen. Links zu externen Plattformen (z. B. LinkedIn, GitHub, Hugging Face) sind einfache Links: Daten werden erst an den jeweiligen Anbieter übertragen, wenn Sie einem Link folgen.
 
 ### Interaktive Beispiele
 
