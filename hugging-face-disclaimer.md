@@ -1,5 +1,5 @@
 # Supplemental Research Preview Disclaimer & Analytics Consent
-_Last updated: November, 24th, 2025_
+_Last updated: October 16th, 2026_
 
 This Supplemental Research Preview Disclaimer & Analytics Consent (“**Supplemental Disclaimer**”) applies to the software applications, demos, and interactive research previews (each an “**App**”) published or made available by **magnolia psychometrics GmbH** (“**Company**,” “**we**,” “**us**,” “**our**”) on Hugging Face or any other hosting platform.
 
@@ -75,6 +75,8 @@ You agree to defend, indemnify, and hold harmless the Company, its affiliates, d
 
 ## 8. Third-Party Platforms, Models, and Services
 The Apps may be hosted on or depend on third-party services (e.g., Hugging Face Spaces, model providers, APIs, or cloud infrastructure). Third parties may have their own terms and privacy practices. We do not control and are not responsible for third-party services or their availability, security, or content. Your use of those services is at your own risk and subject to their terms.
+
+**Hugging Face's own data processing.** When an App runs on Hugging Face Spaces, Hugging Face, Inc. (USA; main establishment in the EU: Hugging Face SAS, Paris, France) delivers the App and, on huggingface.co, the page around it. Hugging Face processes data about your visit, such as your IP address, browser details, and usage of its site, and may set cookies on huggingface.co. This processing is carried out by Hugging Face under its own privacy policy (https://huggingface.co/privacy), may involve a transfer to the USA, and is not covered by the analytics consent in Section 9.
 
 ---
 
