@@ -46,6 +46,8 @@ To understand how the app is used, we use the open-source software Umami. It run
 
 For each page view, we record: the page (without the part of the address after `?`, so shared-link IDs are not recorded) and page title, referrer URL, browser, operating system, device type, screen resolution, language setting, and the country, region, and city derived from the IP address. The IP address itself is not stored. To group page views into visits, Umami computes an identifier from the IP address, browser details, and a regularly changing random value. The IP address cannot be recovered from this identifier, and visits cannot be linked to the same person over longer periods. Umami data is not linked to your searches.
 
+For a random sample of visits, Umami also records click and scroll positions (heatmaps): where on the page a click lands, how far a page is scrolled, and the size of the page and browser window. What you type (including your search queries), the text of the page, and mouse movements are not recorded, and we do not record visits as replays. We only view this data aggregated across many visits, to see which parts of the app are used.
+
 If your browser sends a "Do Not Track" signal, no audience measurement takes place.
 
 - **Purpose:** statistical analysis of usage to improve the app.
