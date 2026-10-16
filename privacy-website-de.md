@@ -36,6 +36,8 @@ Um zu erkennen, welche Inhalte gelesen werden, nutzen wir die Open-Source-Softwa
 
 Bei jedem Seitenaufruf werden erfasst: aufgerufene Seite und Seitentitel, Referrer-URL, Browser, Betriebssystem, Gerätetyp, Bildschirmauflösung, Spracheinstellung sowie Land, Region und Stadt, die aus der IP-Adresse abgeleitet werden. Zusätzlich zählen wir einzelne Aktionen in Blogartikeln, etwa das Teilen eines Artikels, das Kopieren einer Quellenangabe oder das Lesen bis zum Ende. Die IP-Adresse selbst wird nicht gespeichert. Um Seitenaufrufe zu Besuchen zusammenzufassen, bildet Umami eine Kennung aus IP-Adresse, Browserangaben und einem regelmäßig wechselnden Zufallswert. Aus dieser Kennung lässt sich die IP-Adresse nicht zurückrechnen, und Besuche lassen sich nicht über längere Zeit derselben Person zuordnen.
 
+Bei einer zufälligen Auswahl von Besuchen erfasst Umami zusätzlich Klick- und Scrollpositionen (Heatmaps): wohin auf der Seite geklickt wird, wie weit eine Seite gescrollt wird sowie die Größe von Seite und Browserfenster. Eingaben, Seitentexte und Mausbewegungen werden nicht erfasst, und Besuche werden nicht als Aufzeichnung (Replay) gespeichert. Wir werten diese Daten nur zusammengefasst über viele Besuche aus, um zu erkennen, welche Bereiche einer Seite genutzt werden.
+
 Sendet Ihr Browser das Signal „Do Not Track“, findet keine Reichweitenmessung statt.
 
 - **Zweck:** statistische Auswertung der Nutzung, um Inhalte und Website zu verbessern.

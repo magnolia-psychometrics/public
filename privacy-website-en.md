@@ -36,6 +36,8 @@ To understand which content is read, we use the open-source software Umami. It r
 
 For each page view, we record: the page and page title, referrer URL, browser, operating system, device type, screen resolution, language setting, and the country, region, and city derived from the IP address. We also count individual actions in blog articles, such as sharing an article, copying a citation, or reading to the end. The IP address itself is not stored. To group page views into visits, Umami computes an identifier from the IP address, browser details, and a regularly changing random value. The IP address cannot be recovered from this identifier, and visits cannot be linked to the same person over longer periods.
 
+For a random sample of visits, Umami also records click and scroll positions (heatmaps): where on the page a click lands, how far a page is scrolled, and the size of the page and browser window. What you type, the text of the page, and mouse movements are not recorded, and we do not record visits as replays. We only view this data aggregated across many visits, to see which parts of a page are used.
+
 If your browser sends a "Do Not Track" signal, no audience measurement takes place.
 
 - **Purpose:** statistical analysis of usage to improve our content and website.
