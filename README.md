@@ -11,7 +11,7 @@ maintained in one place and shared by our websites and applications.
 | `privacy-{en,de}.md` | Privacy policy |
 | `privacy-website-{en,de}.md` | Privacy policy, additions for magnolia-psychometrics.com |
 | `tos-{en,de}.md` | General terms and conditions |
-| `hf-disclaimer.md` | Disclaimer for research previews and demo apps |
+| `hugging-face-disclaimer.md` | Disclaimer and analytics consent for research previews and demo apps hosted on Hugging Face (English only) |
 
 Files are named `<topic>-<language>.md` (`en`, `de`); the first heading is the title.
 
