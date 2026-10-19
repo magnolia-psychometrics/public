@@ -19,7 +19,7 @@ Um die Website in Ihrer Sprache anzuzeigen, speichern wir Ihre Spracheinstellung
 - **Rechtsgrundlage:** Die Speicherung auf Ihrem Endgerät ist unbedingt erforderlich, um die von Ihnen gewünschte Sprachauswahl bereitzustellen (§ 25 Abs. 2 Nr. 2 TDDDG). Die damit verbundene Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
 - Sie können das Cookie und den Eintrag im Local Storage jederzeit in Ihren Browsereinstellungen löschen.
 
-Weitere Cookies setzen wir nicht ein.
+Weitere Cookies setzen wir nicht ein. Wenn Sie ein YouTube-Video abspielen, kann YouTube Cookies oder ähnliche Informationen auf Ihrem Endgerät speichern (siehe „YouTube-Videos“).
 
 ### Kontaktformular
 
@@ -44,9 +44,19 @@ Sendet Ihr Browser das Signal „Do Not Track“, findet keine Reichweitenmessun
 - **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an einer datensparsamen Reichweitenmessung.
 - **Speicherdauer:** Die Statistikdaten werden nach 24 Monaten gelöscht.
 
-### Keine Inhalte Dritter
+### Inhalte Dritter
 
-Wir nutzen keine Werbe- oder Trackingdienste Dritter. Schriften, Skripte und sonstige Ressourcen werden ausschließlich von unseren eigenen Servern ausgeliefert; beim Besuch der Website werden keine Inhalte von Dritten geladen. Links zu externen Plattformen (z. B. LinkedIn, GitHub, Hugging Face) sind einfache Links: Daten werden erst an den jeweiligen Anbieter übertragen, wenn Sie einem Link folgen.
+Wir nutzen keine Werbe- oder Trackingdienste Dritter. Schriften, Skripte und sonstige Ressourcen werden ausschließlich von unseren eigenen Servern ausgeliefert; beim Besuch der Website werden keine Inhalte von Dritten geladen. Einzige Ausnahme sind YouTube-Videos, und auch diese erst, wenn Sie ein Video starten (siehe „YouTube-Videos“). Links zu externen Plattformen (z. B. LinkedIn, GitHub, Hugging Face) sind einfache Links: Daten werden erst an den jeweiligen Anbieter übertragen, wenn Sie einem Link folgen.
+
+### YouTube-Videos
+
+Einige Artikel enthalten Videos, die auf YouTube bereitgestellt werden, einem Dienst der Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Beim Aufruf eines solchen Artikels wird keine Verbindung zu YouTube hergestellt; wir zeigen lediglich ein Vorschaubild, das auf unserem eigenen Server gespeichert ist. Das Video wird erst von YouTube geladen, wenn Sie es starten. YouTube ist dabei im erweiterten Datenschutzmodus (youtube-nocookie.com) eingebunden.
+
+Sobald Sie ein Video starten, baut Ihr Browser eine Verbindung zu Servern von YouTube und Google auf. Dabei werden mindestens Ihre IP-Adresse, die Adresse der aufgerufenen Seite und technische Informationen zu Ihrem Browser übermittelt. YouTube kann zudem Cookies oder ähnliche Informationen auf Ihrem Endgerät speichern, Daten für eigene Zwecke nutzen (z. B. für Analysen oder Werbung) und sie mit Ihrem Google-Konto verknüpfen, falls Sie angemeldet sind. Auf diese Verarbeitung haben wir keinen Einfluss, und ihr Umfang ist uns nicht vollständig bekannt. Näheres finden Sie in der [Datenschutzerklärung von Google](https://policies.google.com/privacy).
+
+- **Rechtsgrundlage:** Ihre Einwilligung, die Sie durch das Starten des Videos erteilen (Art. 6 Abs. 1 lit. a DSGVO; § 25 Abs. 1 TDDDG). Die Einwilligung gilt für das gestartete Video und wird nicht gespeichert; jedes weitere Video erfordert einen erneuten Klick.
+- **Widerruf:** Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie die Wiedergabe beenden und die Seite verlassen oder neu laden. Danach übermittelt unsere Seite keine weiteren Daten an YouTube. Für bereits übermittelte Daten gilt die Datenschutzerklärung von Google.
+- **Drittlandübermittlung:** Dabei können Daten in die USA übermittelt werden. Die Google LLC ist nach dem EU-US Data Privacy Framework zertifiziert; die Übermittlung stützt sich auf den Angemessenheitsbeschluss der Europäischen Kommission (Art. 45 DSGVO).
 
 ### Interaktive Beispiele
 

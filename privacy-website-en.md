@@ -19,7 +19,7 @@ To display the website in your language, we store your language preference (the 
 - **Legal basis:** Storing this information on your device is strictly necessary to provide the language selection you requested (Section 25 (2) No. 2 German Telecommunications Digital Services Data Protection Act, TDDDG). The associated processing is based on Art. 6 (1) (f) GDPR.
 - You can delete the cookie and the local storage entry at any time in your browser settings.
 
-We do not use any other cookies.
+We do not set any other cookies. If you play a YouTube video, YouTube may store cookies or similar information on your device (see "YouTube Videos").
 
 ### Contact Form
 
@@ -44,9 +44,19 @@ If your browser sends a "Do Not Track" signal, no audience measurement takes pla
 - **Legal basis:** Art. 6 (1) (f) GDPR, based on our legitimate interest in privacy-friendly audience measurement.
 - **Retention:** The statistics data is deleted after 24 months.
 
-### No Third-Party Content
+### Third-Party Content
 
-We do not use third-party advertising or tracking services. All fonts, scripts, and other resources are delivered from our own servers; no content is loaded from third parties when you visit the website. Links to external platforms (e.g., LinkedIn, GitHub, Hugging Face) are plain links: data is only transmitted to the respective provider if you follow them.
+We do not use third-party advertising or tracking services. All fonts, scripts, and other resources are delivered from our own servers; no content is loaded from third parties when you visit the website. The only exception are YouTube videos, and only once you start one (see "YouTube Videos"). Links to external platforms (e.g., LinkedIn, GitHub, Hugging Face) are plain links: data is only transmitted to the respective provider if you follow them.
+
+### YouTube Videos
+
+Some articles contain videos hosted on YouTube, a service of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland. Opening such an article does not establish any connection to YouTube: we only show a preview image stored on our own server. The video is loaded from YouTube only when you click play. YouTube is embedded in its privacy-enhanced mode (youtube-nocookie.com).
+
+When you click play, your browser connects to servers of YouTube and Google. At a minimum, your IP address, the address of the page, and technical information about your browser are transmitted. YouTube may also store cookies or similar information on your device, use data for its own purposes (e.g., analysis or advertising), and link it to your Google account if you are logged in. We have no influence on this processing and do not know its full scope. For details, see [Google's privacy policy](https://policies.google.com/privacy).
+
+- **Legal basis:** your consent, which you give by clicking play (Art. 6 (1) (a) GDPR; Section 25 (1) TDDDG). Your consent applies to the video you start and is not stored; every further video requires a new click.
+- **Withdrawal:** You can withdraw your consent at any time with effect for the future by stopping playback and leaving or reloading the page. From then on, our page transmits no further data to YouTube. Data already transmitted is subject to Google's privacy policy.
+- **Transfer to third countries:** Data may be transferred to the USA. Google LLC is certified under the EU-US Data Privacy Framework; the transfer is based on the European Commission's adequacy decision (Art. 45 GDPR).
 
 ### Interactive Examples
 
