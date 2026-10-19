@@ -56,4 +56,4 @@ If your browser sends a "Do Not Track" signal, no audience measurement takes pla
 
 ### Other Content
 
-Apart from the Hugging Face hosting described above, all fonts, scripts, and other resources are delivered with the app; no content is loaded from other third parties. Links to external sites (e.g., GitHub, OSF, DOI links to publications) are plain links: data is only transmitted to the respective provider if you follow them.
+Apart from the Hugging Face hosting described above, all fonts, scripts, and other resources are delivered with the app; no content is loaded from other third parties. The only exception are YouTube videos, and only once you start one: the app then loads the video from YouTube (Google) in its privacy-enhanced mode (youtube-nocookie.com). What is transmitted, the legal basis (your consent by clicking play), withdrawal, and the transfer to the USA are described under "YouTube videos" in Section 8 of the Supplemental Research Preview Disclaimer. Links to external sites (e.g., GitHub, OSF, DOI links to publications) are plain links: data is only transmitted to the respective provider if you follow them.
