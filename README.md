@@ -8,9 +8,7 @@ maintained in one place and shared by our websites and applications.
 | File | Content |
 |---|---|
 | `imprint-{en,de}.md` | Imprint (Impressum) |
-| `privacy-{en,de}.md` | Privacy policy |
-| `privacy-website-{en,de}.md` | Privacy policy, additions for magnolia-psychometrics.com |
-| `privacy-synthometricon-en.md` | Privacy policy, additions for the Synthometricon app (English only) |
+| `privacy-{en,de}.md` | Privacy policy for our website and our apps (one document per language) |
 | `tos-{en,de}.md` | General terms and conditions |
 | `hugging-face-disclaimer.md` | Disclaimer and analytics consent for research previews and demo apps hosted on Hugging Face (English only) |
 
