@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy explains how magnolia psychometrics GmbH processes personal data. It applies to our website magnolia-psychometrics.com and to our apps. The general part applies to all of them; the sections "Our Website" and "Synthometricon" describe the processing specific to each.
+This privacy policy explains how magnolia psychometrics GmbH processes personal data. It applies to our website magnolia-psychometrics.com and to our apps. The general part applies to all of them; the sections "Our Website" and "Synthometricon" describe the processing specific to each, and the section "Text Analysis in Our Apps" the analysis of texts you enter in our apps.
 
 ## Controller
 
@@ -123,7 +123,9 @@ Searching requires your consent, which you give with the checkbox above the sear
 
 We do not store your IP address, name, or any other identifying details with a search. Each distinct search gets a short ID, which makes the search retrievable via a shared link (`?q=<ID>`) by anyone who has the link.
 
-**Do not enter personal data** (e.g., names or information about identifiable people) into the search. The text you enter is stored as described above.
+To find matching scales, the app also sends the items or scale descriptions you search for to our text-analysis service. What the service receives and stores is described under "Text Analysis in Our Apps".
+
+**Do not enter personal data** (e.g., names or information about identifiable people) into the search. The text you enter is stored as described above and under "Text Analysis in Our Apps".
 
 - **Purpose:** carrying out the search, providing shared links, and research on how psychometric content is searched, published only in aggregated form.
 - **Legal basis:** your consent, Art. 6 (1) (a) GDPR. You can withdraw it at any time, with effect for the future, by unticking the consent checkbox in the app (after you have agreed, open it via "Review"). Searches made before the withdrawal remain stored; since they are not linked to your name, we can only delete them if you send us the shared link or ID of the search.
@@ -157,6 +159,16 @@ If your browser sends a "Do Not Track" signal, no audience measurement takes pla
 ### Other Content
 
 Apart from the Hugging Face hosting described above, all fonts, scripts, and other resources are delivered with the app; no content is loaded from other third parties. The only exception are YouTube videos, and only once you start one: the app then loads the video from YouTube (Google) in its privacy-enhanced mode (youtube-nocookie.com). What is transmitted, the legal basis (your consent by clicking play), withdrawal, and the transfer to the USA are described under "YouTube videos" in Section 8 of the Supplemental Research Preview Disclaimer. Links to external sites (e.g., GitHub, OSF, DOI links to publications) are plain links: data is only transmitted to the respective provider if you follow them.
+
+## Text Analysis in Our Apps
+
+Some of our apps analyze texts you enter, such as questionnaire items or search terms: they compute, for example, how strongly the answers to two items are likely to correlate. For this, the app sends the texts from its server to our own text-analysis service. The service receives only the texts, not your IP address, name, or other details about you.
+
+- **Where:** The service runs on servers of a hosting provider in France. For some analyses, part of the computation is carried out by a provider of computing services in France, which processes the texts only to compute the result and does not use them for any other purpose. Both process the data on our behalf under data processing agreements pursuant to Art. 28 GDPR. No data is transferred outside the European Union.
+- **Storage:** We store each text together with when and how often it was requested, and the results computed from it, so that repeated requests are answered quickly and give the same result. The texts are stored without any link to the person who entered them. **Do not enter personal data** (e.g., names or information about identifiable people) into the text fields.
+- **Purpose:** providing the analyses you request.
+- **Legal basis:** Art. 6 (1) (f) GDPR, based on our legitimate interest in providing the analyses you request and in answering repeated requests efficiently.
+- **Retention:** as long as we offer the service. Since the texts are not linked to you, we can only find and delete a text if you tell us its exact wording.
 
 ## Recipients
 
