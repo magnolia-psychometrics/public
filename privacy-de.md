@@ -126,8 +126,8 @@ Um passende Skalen zu finden, sendet die App die gesuchten Items oder Skalenbesc
 
 **Geben Sie keine personenbezogenen Daten** (z. B. Namen oder Angaben über identifizierbare Personen) in die Suche ein. Der eingegebene Text wird wie oben und im Abschnitt „Textanalyse in unseren Apps“ beschrieben gespeichert.
 
-- **Zweck:** Durchführung der Suche, Bereitstellung geteilter Links sowie Forschung dazu, wie nach psychometrischen Inhalten gesucht wird; veröffentlicht werden nur zusammengefasste Ergebnisse.
-- **Rechtsgrundlage:** Ihre Einwilligung, Art. 6 Abs. 1 lit. a DSGVO. Sie können sie jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie in der App das Häkchen im Einwilligungs-Kontrollkästchen entfernen (nach Ihrer Zustimmung erreichbar über „Review“). Vor dem Widerruf durchgeführte Suchen bleiben gespeichert; da sie nicht mit Ihrem Namen verknüpft sind, können wir sie nur löschen, wenn Sie uns den geteilten Link oder die Kennung der Suche mitteilen.
+- **Zweck:** Durchführung der Suche, Bereitstellung geteilter Links sowie Forschung dazu, wie nach psychometrischen Inhalten gesucht wird und wie die App in der Wissenschaft genutzt wird und wirkt; veröffentlicht werden nur zusammengefasste Ergebnisse.
+- **Rechtsgrundlage:** Ihre Einwilligung, Art. 6 Abs. 1 lit. a DSGVO. Sie können sie jederzeit mit Wirkung für die Zukunft widerrufen, indem Sie in der App das Häkchen im Einwilligungs-Kontrollkästchen entfernen (nach Ihrer Zustimmung erreichbar über „Review“). Mit dem Widerruf wird auch die Zufallskennung in Ihrem Browser gelöscht: Vor dem Widerruf durchgeführte Suchen bleiben gespeichert, sind aber nicht mehr mit Ihrem Browser verknüpft.
 - **Speicherdauer:** solange es für die hier beschriebenen Forschungszwecke erforderlich ist und damit geteilte Links weiterhin funktionieren.
 
 ### Lokaler Speicher
@@ -167,7 +167,7 @@ Einige unserer Apps analysieren Texte, die Sie eingeben, etwa Fragebogen-Items o
 - **Speicherung:** Wir speichern jeden Text zusammen mit dem Zeitpunkt und der Häufigkeit seiner Anfragen sowie den daraus berechneten Ergebnissen, damit wiederholte Anfragen schnell und mit demselben Ergebnis beantwortet werden. Die Texte werden ohne Bezug zu der Person gespeichert, die sie eingegeben hat. **Geben Sie keine personenbezogenen Daten** (z. B. Namen oder Angaben über identifizierbare Personen) in die Textfelder ein.
 - **Zweck:** Bereitstellung der von Ihnen angefragten Analysen.
 - **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses, die von Ihnen angefragten Analysen bereitzustellen und wiederholte Anfragen effizient zu beantworten.
-- **Speicherdauer:** solange wir den Dienst anbieten. Da die Texte nicht mit Ihrer Person verknüpft sind, können wir einen Text nur finden und löschen, wenn Sie uns seinen genauen Wortlaut mitteilen.
+- **Speicherdauer:** solange wir den Dienst anbieten.
 
 ## Empfänger
 

@@ -127,8 +127,8 @@ To find matching scales, the app also sends the items or scale descriptions you 
 
 **Do not enter personal data** (e.g., names or information about identifiable people) into the search. The text you enter is stored as described above and under "Text Analysis in Our Apps".
 
-- **Purpose:** carrying out the search, providing shared links, and research on how psychometric content is searched, published only in aggregated form.
-- **Legal basis:** your consent, Art. 6 (1) (a) GDPR. You can withdraw it at any time, with effect for the future, by unticking the consent checkbox in the app (after you have agreed, open it via "Review"). Searches made before the withdrawal remain stored; since they are not linked to your name, we can only delete them if you send us the shared link or ID of the search.
+- **Purpose:** carrying out the search, providing shared links, and research on how psychometric content is searched and on the app's use and impact in science, published only in aggregated form.
+- **Legal basis:** your consent, Art. 6 (1) (a) GDPR. You can withdraw it at any time, with effect for the future, by unticking the consent checkbox in the app (after you have agreed, open it via "Review"). Withdrawing also deletes the random identifier in your browser: searches made before the withdrawal remain stored, but are no longer linked to your browser.
 - **Retention:** as long as needed for the research purposes described here and for shared links to keep working.
 
 ### Local Storage
@@ -168,7 +168,7 @@ Some of our apps analyze texts you enter, such as questionnaire items or search 
 - **Storage:** We store each text together with when and how often it was requested, and the results computed from it, so that repeated requests are answered quickly and give the same result. The texts are stored without any link to the person who entered them. **Do not enter personal data** (e.g., names or information about identifiable people) into the text fields.
 - **Purpose:** providing the analyses you request.
 - **Legal basis:** Art. 6 (1) (f) GDPR, based on our legitimate interest in providing the analyses you request and in answering repeated requests efficiently.
-- **Retention:** as long as we offer the service. Since the texts are not linked to you, we can only find and delete a text if you tell us its exact wording.
+- **Retention:** as long as we offer the service.
 
 ## Recipients
 
