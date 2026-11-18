@@ -118,7 +118,9 @@ Für die Suche ist Ihre Einwilligung erforderlich, die Sie über das Kontrollkä
 - Datum und Uhrzeit der Suche;
 - eine von Ihrem Browser erzeugte Zufallskennung (siehe „Lokaler Speicher“), die die Suchen aus demselben Browser zusammenfasst;
 - die Version der Bedingungen, denen Sie zugestimmt haben, und den Zeitpunkt Ihrer Zustimmung;
-- wie die Suche gestartet wurde (Suchformular oder geteilter Link) und welche Serverinstanz sie bearbeitet hat.
+- wie die Suche gestartet wurde (Suchformular oder geteilter Link), ob sie erfolgreich war und welche Version der App und welche Serverinstanz sie bearbeitet haben.
+
+Wenn Sie Ergebnisse als CSV-Datei herunterladen, speichern wir den Download auf dieselbe Weise: mit der Kennung der Suche, der Anzahl der Instrumente in der Datei, der gewählten Sortierung und den angewendeten Filtern sowie der Angabe, ob Sie das Filterfeld genutzt haben (nicht aber den Text, den Sie dort eingegeben haben).
 
 Ihre IP-Adresse, Ihren Namen oder andere identifizierende Angaben speichern wir zu einer Suche nicht. Jede unterschiedliche Suche erhält eine kurze Kennung, über die sie per geteiltem Link (`?q=<ID>`) von allen abgerufen werden kann, die den Link kennen.
 
