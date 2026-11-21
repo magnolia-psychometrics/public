@@ -1,6 +1,6 @@
 # Datenschutzerklärung
 
-Diese Datenschutzerklärung informiert darüber, wie die magnolia psychometrics GmbH personenbezogene Daten verarbeitet. Sie gilt für unsere Website magnolia-psychometrics.com und für unsere Apps. Der allgemeine Teil gilt für alle; die Abschnitte „Unsere Website“ und „Synthometricon“ beschreiben die Verarbeitungen, die nur das jeweilige Angebot betreffen, der Abschnitt „Textanalyse in unseren Apps“ die Analyse von Texten, die Sie in unseren Apps eingeben.
+Diese Datenschutzerklärung informiert darüber, wie die magnolia psychometrics GmbH personenbezogene Daten verarbeitet. Sie gilt für unsere Website magnolia-psychometrics.com und für unsere Apps. Der allgemeine Teil gilt für alle; die Abschnitte „Unsere Website“, „Synthometricon“ und „Synthetic Correlations“ beschreiben die Verarbeitungen, die nur das jeweilige Angebot betreffen, der Abschnitt „Textanalyse in unseren Apps“ die Analyse von Texten, die Sie in unseren Apps eingeben.
 
 ## Verantwortlicher
 
@@ -160,6 +160,70 @@ Sendet Ihr Browser das Signal „Do Not Track“, findet keine Reichweitenmessun
 ### Weitere Inhalte
 
 Abgesehen vom oben beschriebenen Hosting bei Hugging Face werden Schriften, Skripte und sonstige Ressourcen mit der App ausgeliefert; Inhalte anderer Dritter werden nicht geladen. Einzige Ausnahme sind YouTube-Videos, und auch diese erst, wenn Sie ein Video starten: Die App lädt das Video dann von YouTube (Google) im erweiterten Datenschutzmodus (youtube-nocookie.com). Was dabei übermittelt wird, die Rechtsgrundlage (Ihre Einwilligung durch das Starten), den Widerruf und die Übermittlung in die USA beschreibt Abschnitt 8 („YouTube videos“) des Supplemental Research Preview Disclaimer. Links zu externen Seiten (z. B. GitHub, OSF, DOI-Links zu Publikationen) sind einfache Links: Daten werden erst an den jeweiligen Anbieter übertragen, wenn Sie einem Link folgen.
+
+## Synthetic Correlations
+
+Synthetic Correlations sagt allein aus dem Wortlaut der Items vorher, wie die Items und Skalen eines Fragebogens miteinander korrelieren und wie reliabel seine Skalen sind. Die App wurde im Forschungsprogramm SYNTH entwickelt und als Forschungsvorschau (Research Preview) veröffentlicht. Ergänzend zu dieser Datenschutzerklärung gilt der (englischsprachige) Supplemental Research Preview Disclaimer.
+
+### Hosting bei Hugging Face
+
+Die App läuft auf Hugging Face Spaces, betrieben von Hugging Face, Inc. (USA; Hauptniederlassung in der EU: Hugging Face SAS, 9 rue des Colonnes, 75002 Paris, Frankreich). Jede Anfrage an die App läuft über Server von Hugging Face, die dabei Ihre IP-Adresse, die aufgerufene Adresse, Datum und Uhrzeit sowie Browser und Betriebssystem (User-Agent) verarbeiten. Wenn Sie die App auf huggingface.co aufrufen, wird diese Seite von Hugging Face ausgeliefert, das dort Cookies setzen kann. Hugging Face verarbeitet diese Daten nach seiner eigenen Datenschutzerklärung (https://huggingface.co/privacy); dabei ist eine Übermittlung in die USA möglich.
+
+Die App selbst schreibt keine Zugriffsprotokolle.
+
+- **Zweck:** Auslieferung der App.
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses, die App öffentlich zugänglich zu machen.
+
+### Fragebögen und geteilte Links
+
+Für eine Schätzung ist Ihre Einwilligung erforderlich, die Sie über das Kontrollkästchen oberhalb der Schaltfläche erteilen, mit der Sie die Schätzung starten. Zu jeder Schätzung speichern wir auf unserem eigenen Datenbankserver in Deutschland:
+
+- den eingegebenen Fragebogen, d. h. die Namen seiner Skalen und Subskalen, seine Items, welche Items als umgepolt markiert sind, sowie Reihenfolge und Verschachtelung;
+- Datum und Uhrzeit der Schätzung;
+- eine von Ihrem Browser erzeugte Zufallskennung (siehe „Lokaler Speicher“), die die Schätzungen aus demselben Browser zusammenfasst;
+- die Version der Bedingungen, denen Sie zugestimmt haben, und den Zeitpunkt Ihrer Zustimmung;
+- wie die Schätzung gestartet wurde (im Editor, mit einem unveränderten Beispiel oder über einen geteilten Link), ob sie erfolgreich war und, falls nicht, einen kurzen Code für die Ursache, den Umfang des Fragebogens (Anzahl der Items, Skalen und Subskalen sowie die Tiefe der Verschachtelung) und welche Version der App und welche Serverinstanz sie bearbeitet haben.
+
+Das Sortieren und Blättern in den Ergebnissen wird nicht gespeichert. Wenn Sie Ergebnisse als CSV-Datei herunterladen, speichern wir den Download auf dieselbe Weise: mit der Kennung des Fragebogens, der heruntergeladenen Tabelle und ihrer Darstellung (Liste oder Matrix), der Reihenfolge der Itempaare und der Anzahl der Items.
+
+Ihre IP-Adresse, Ihren Namen oder andere identifizierende Angaben speichern wir zu einer Schätzung nicht. Jeder unterschiedliche Fragebogen erhält eine kurze Kennung, über die er per geteiltem Link (`?q=<ID>`) von allen abgerufen werden kann, die den Link kennen. Nach jeder Schätzung zeigt die App diesen Link in der Adresszeile Ihres Browsers an.
+
+Für die Schätzung sendet die App außerdem die Items (nicht die Namen der Skalen) an unseren Textanalyse-Dienst. Was der Dienst erhält und speichert, beschreibt der Abschnitt „Textanalyse in unseren Apps“.
+
+**Geben Sie keine personenbezogenen Daten** (z. B. Namen oder Angaben über identifizierbare Personen) in den Fragebogen ein. Der eingegebene Text wird wie oben und im Abschnitt „Textanalyse in unseren Apps“ beschrieben gespeichert. Auch noch unveröffentlichte Fragebögen werden so gespeichert.
+
+- **Zweck:** Berechnung der Schätzungen, Bereitstellung geteilter Links sowie Forschung dazu, wie Fragebögen gestaltet werden und wie die App in der Wissenschaft genutzt wird und wirkt; veröffentlicht werden nur zusammengefasste Ergebnisse.
+- **Rechtsgrundlage:** Ihre Einwilligung, Art. 6 Abs. 1 lit. a DSGVO. Sie können sie jederzeit mit Wirkung für die Zukunft widerrufen, in der App über „Withdraw“ neben „Terms accepted on …“ oder indem Sie das Häkchen im Einwilligungs-Kontrollkästchen entfernen (erreichbar über „Review“). Mit dem Widerruf wird auch die Zufallskennung in Ihrem Browser gelöscht. Vor dem Widerruf durchgeführte Schätzungen bleiben gespeichert, sind aber nicht mehr mit Ihrem Browser verknüpft.
+- **Speicherdauer:** solange es für die hier beschriebenen Forschungszwecke erforderlich ist und damit geteilte Links weiterhin funktionieren.
+
+### Lokaler Speicher
+
+Die App setzt keine Cookies. Sie legt folgende Einträge im lokalen Speicher (Local Storage) Ihres Browsers ab:
+
+- `synthetic_correlations_consent`: die Version der Bedingungen, denen Sie zugestimmt haben, und den Zeitpunkt Ihrer Zustimmung, damit Sie erst bei geänderten Bedingungen erneut gefragt werden;
+- `synthetic_correlations_questionnaire`: der Fragebogen, an dem Sie arbeiten, und die gewählte Ansicht des Editors, damit beides bei Ihrer Rückkehr noch vorhanden ist; der Eintrag bleibt auf Ihrem Gerät;
+- `synthetic_correlations_session_id`: die unter „Fragebögen und geteilte Links“ beschriebene Zufallskennung.
+
+- **Rechtsgrundlage:** Die Speicherung der Sitzungskennung beruht auf Ihrer Einwilligung (§ 25 Abs. 1 TDDDG); die Speicherung Ihrer Zustimmung und Ihres Fragebogens ist unbedingt erforderlich, um die App so bereitzustellen, wie Sie sie nutzen (§ 25 Abs. 2 Nr. 2 TDDDG).
+- Sie können diese Einträge jederzeit in Ihren Browsereinstellungen löschen.
+
+### Reichweitenmessung in der App
+
+Um zu verstehen, wie die App genutzt wird, nutzen wir die Open-Source-Software Umami. Sie läuft auf unseren eigenen Servern in Deutschland, Daten gehen dabei nicht an Dritte. Umami setzt keine Cookies und speichert nichts auf Ihrem Gerät.
+
+Bei jedem Seitenaufruf werden erfasst: aufgerufene Seite (ohne den Teil der Adresse nach `?`, sodass Kennungen geteilter Links nicht erfasst werden) und Seitentitel, Referrer-URL, Browser, Betriebssystem, Gerätetyp, Bildschirmauflösung, Spracheinstellung sowie Land, Region und Stadt, die aus der IP-Adresse abgeleitet werden. Die IP-Adresse selbst wird nicht gespeichert. Um Seitenaufrufe zu Besuchen zusammenzufassen, bildet Umami eine Kennung aus IP-Adresse, Browserangaben und einem regelmäßig wechselnden Zufallswert. Aus dieser Kennung lässt sich die IP-Adresse nicht zurückrechnen, und Besuche lassen sich nicht über längere Zeit derselben Person zuordnen. Umami-Daten werden nicht mit Ihren Schätzungen verknüpft.
+
+Bei einer zufälligen Auswahl von Besuchen erfasst Umami zusätzlich Klick- und Scrollpositionen (Heatmaps): wohin auf der Seite geklickt wird, wie weit eine Seite gescrollt wird sowie die Größe von Seite und Browserfenster. Eingaben (einschließlich Ihrer Fragebögen), Seitentexte und Mausbewegungen werden nicht erfasst, und Besuche werden nicht als Aufzeichnung (Replay) gespeichert. Wir werten diese Daten nur zusammengefasst über viele Besuche aus, um zu erkennen, welche Bereiche der App genutzt werden.
+
+Sendet Ihr Browser das Signal „Do Not Track“, findet keine Reichweitenmessung statt.
+
+- **Zweck:** statistische Auswertung der Nutzung, um die App zu verbessern.
+- **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO auf Grundlage unseres berechtigten Interesses an einer datensparsamen Reichweitenmessung.
+- **Speicherdauer:** Die Statistikdaten werden nach 24 Monaten gelöscht.
+
+### Weitere Inhalte
+
+Abgesehen vom oben beschriebenen Hosting bei Hugging Face werden Schriften, Skripte und sonstige Ressourcen mit der App ausgeliefert; Inhalte anderer Dritter werden nicht geladen. Links zu externen Seiten (z. B. GitHub, OSF, DOI-Links zu Publikationen) sind einfache Links: Daten werden erst an den jeweiligen Anbieter übertragen, wenn Sie einem Link folgen.
 
 ## Textanalyse in unseren Apps
 
